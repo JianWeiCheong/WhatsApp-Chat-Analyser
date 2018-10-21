@@ -14,6 +14,8 @@ Input file is a .txt file of the conversations. The conversation .txt file can b
 
 Chat data formats: "dd/mm/yy, HH:MM PM - Name: Messages".
 
+e.g. "13/9/15, 8:33 PM - Bob: Hello world!"
+
 Note that "dd/mm/yy" can be "d/mm/yy", "dd/m/yy" or "d/m/yy" and that "HH:MM PM" can be "H:MM PM".
 
 Media data format: "\<Media omitted\>".
