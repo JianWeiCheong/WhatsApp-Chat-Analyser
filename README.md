@@ -39,3 +39,6 @@ ggplot2 is used for plotting of graphs, and quanteda is used to tokenise and ana
 ![screenshot](https://github.com/SataJW/WhatsApp-Chat-Analyser/blob/master/images/dayplot.PNG)
 
 ![screenshot](https://github.com/SataJW/WhatsApp-Chat-Analyser/blob/master/images/clockplot.PNG)
+
+## License
+See the [LICENSE](https://github.com/SataJW/WhatsApp-Chat-Analyser/blob/master/LICENSE.md) file for license rights and limitations.
